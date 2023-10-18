@@ -1,7 +1,7 @@
 # SnowSQL config
 
 [connections.dev]
-accountname = egmqxdz-ekb96039
+accountname = AYUSH432
 username = ayush432
 password = Test_1234
 rolename = HOL_ROLE
